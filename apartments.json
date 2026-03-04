@@ -1,0 +1,415 @@
+[
+  {
+    "rent": 13000,
+    "size_sqm": 74,
+    "rooms": 3.0,
+    "address": "Storforsplan, Farsta",
+    "link": "https://qasa.com/se/sv/home/1319325"
+  },
+  {
+    "rent": 13307,
+    "size_sqm": 40,
+    "rooms": 2.0,
+    "address": "Sockenvägen, Enskededalen",
+    "link": "https://qasa.com/se/sv/home/1304686"
+  },
+  {
+    "rent": 13000,
+    "size_sqm": 40,
+    "rooms": 2.0,
+    "address": "Kista Alléväg, Kista",
+    "link": "https://qasa.com/se/sv/home/1317659"
+  },
+  {
+    "rent": 12000,
+    "size_sqm": 39,
+    "rooms": 2.0,
+    "address": "Vårholmsbackarna, Skärholmen",
+    "link": "https://qasa.com/se/sv/home/1319306"
+  },
+  {
+    "rent": 8500,
+    "size_sqm": 64,
+    "rooms": 2.0,
+    "address": "Gulddragargränd, Vällingby",
+    "link": "https://qasa.com/se/sv/home/1319308"
+  },
+  {
+    "rent": 8000,
+    "size_sqm": 30,
+    "rooms": 1.0,
+    "address": "Danmarksgatan, Kista",
+    "link": "https://qasa.com/se/sv/home/1319258"
+  },
+  {
+    "rent": 19000,
+    "size_sqm": 81,
+    "rooms": 4.0,
+    "address": "Stora Gungans Väg, Enskede",
+    "link": "https://qasa.com/se/sv/home/1319263"
+  },
+  {
+    "rent": 19500,
+    "size_sqm": 60,
+    "rooms": 2.0,
+    "address": "Högalidsgatan, Stockholm",
+    "link": "https://qasa.com/se/sv/home/1289242"
+  },
+  {
+    "rent": 15000,
+    "size_sqm": 56,
+    "rooms": 2.0,
+    "address": "Bokbindarvägen, Hägersten",
+    "link": "https://qasa.com/se/sv/home/1319233"
+  },
+  {
+    "rent": 14800,
+    "size_sqm": 22,
+    "rooms": 1.0,
+    "address": "Brahegatan, Stockholm",
+    "link": "https://qasa.com/se/sv/home/1319255"
+  },
+  {
+    "rent": 10350,
+    "size_sqm": 35,
+    "rooms": 2.0,
+    "address": "Bjursätragatan, Bandhagen",
+    "link": "https://qasa.com/se/sv/home/1319252"
+  },
+  {
+    "rent": 13500,
+    "size_sqm": 70,
+    "rooms": 2.0,
+    "address": "Svandammsvägen, Hägersten",
+    "link": "https://qasa.com/se/sv/home/1319245"
+  },
+  {
+    "rent": 9500,
+    "size_sqm": 38,
+    "rooms": 1.0,
+    "address": "Molkomsbacken, Farsta",
+    "link": "https://qasa.com/se/sv/home/1319230"
+  },
+  {
+    "rent": 5730,
+    "size_sqm": 16,
+    "rooms": 1.0,
+    "address": "Flyghamnsgatan , Skarpnäck",
+    "link": "https://qasa.com/se/sv/home/1319237"
+  },
+  {
+    "rent": 28000,
+    "size_sqm": 84,
+    "rooms": 3.0,
+    "address": "Hagagatan, Stockholm",
+    "link": "https://qasa.com/se/sv/home/1313718"
+  },
+  {
+    "rent": 12000,
+    "size_sqm": 28,
+    "rooms": 1.0,
+    "address": "Alströmergatan, Stockholm",
+    "link": "https://qasa.com/se/sv/home/1314607"
+  },
+  {
+    "rent": 12749,
+    "size_sqm": 58,
+    "rooms": 2.5,
+    "address": "Rindögatan, Stockholm",
+    "link": "https://qasa.com/se/sv/home/1319224"
+  },
+  {
+    "rent": 6000,
+    "size_sqm": 10,
+    "rooms": 3.5,
+    "address": "Magnus Ladulåsgatan, Stockholm",
+    "link": "https://qasa.com/se/sv/home/1319218"
+  },
+  {
+    "rent": 13500,
+    "size_sqm": 42,
+    "rooms": 1.5,
+    "address": "Järnlundsvägen, Årsta",
+    "link": "https://qasa.com/se/sv/home/1319190"
+  },
+  {
+    "rent": 14500,
+    "size_sqm": 50,
+    "rooms": 2.0,
+    "address": "Tappvägen, Bromma",
+    "link": "https://qasa.com/se/sv/home/1319210"
+  },
+  {
+    "rent": 18850,
+    "size_sqm": 62,
+    "rooms": 2.0,
+    "address": "Krukmakarbacken, Stockholm",
+    "link": "https://qasa.com/se/sv/home/1278679"
+  },
+  {
+    "rent": 6000,
+    "size_sqm": 20,
+    "rooms": 1.0,
+    "address": "Bastugatan, Stockholm",
+    "link": "https://qasa.com/se/sv/home/1319212"
+  },
+  {
+    "rent": 26000,
+    "size_sqm": 73,
+    "rooms": 3.0,
+    "address": "Fatburs Kvarngata, Stockholm",
+    "link": "https://qasa.com/se/sv/home/1319172"
+  },
+  {
+    "rent": 30000,
+    "size_sqm": 55,
+    "rooms": 2.0,
+    "address": "Hagagatan, Stockholm",
+    "link": "https://qasa.com/se/sv/home/1319188"
+  },
+  {
+    "rent": 11300,
+    "size_sqm": 50,
+    "rooms": 1.0,
+    "address": "Trollesundsvägen, Bandhagen",
+    "link": "https://qasa.com/se/sv/home/1278968"
+  },
+  {
+    "rent": 6000,
+    "size_sqm": 16,
+    "rooms": 1.0,
+    "address": "Vintrosagatan, Bandhagen",
+    "link": "https://qasa.com/se/sv/home/1319158"
+  },
+  {
+    "rent": 4000,
+    "size_sqm": 15,
+    "rooms": 1.0,
+    "address": "Torkel Knutssonsgatan, Stockholm",
+    "link": "https://qasa.com/se/sv/home/1319116"
+  },
+  {
+    "rent": 6000,
+    "size_sqm": 18,
+    "rooms": 1.0,
+    "address": "Gränsholmsbacken, Skärholmen",
+    "link": "https://qasa.com/se/sv/home/940281"
+  },
+  {
+    "rent": 5000,
+    "size_sqm": 16,
+    "rooms": 1.0,
+    "address": "Sibeliusgången , Stockholm. ",
+    "link": "https://qasa.com/se/sv/home/1319074"
+  },
+  {
+    "rent": 11000,
+    "size_sqm": 32,
+    "rooms": 1.0,
+    "address": "Skärholmsgången, Skärholmen",
+    "link": "https://qasa.com/se/sv/home/1319027"
+  },
+  {
+    "rent": 9000,
+    "size_sqm": 34,
+    "rooms": 1.5,
+    "address": "Snödroppsgränd, Hässelby",
+    "link": "https://qasa.com/se/sv/home/1318967"
+  },
+  {
+    "rent": 20000,
+    "size_sqm": 41,
+    "rooms": 2.0,
+    "address": "Dalagatan, Stockholm",
+    "link": "https://qasa.com/se/sv/home/1317542"
+  },
+  {
+    "rent": 4885,
+    "size_sqm": 12,
+    "rooms": 1.0,
+    "address": "Jyllandsgatan, Kista",
+    "link": "https://qasa.com/se/sv/home/1318904"
+  },
+  {
+    "rent": 8317,
+    "size_sqm": 33,
+    "rooms": 1.0,
+    "address": "Vårholmsbackarna, Stockholm",
+    "link": "https://qasa.com/se/sv/home/1318988"
+  },
+  {
+    "rent": 11300,
+    "size_sqm": 58,
+    "rooms": 2.0,
+    "address": "Persikogatan, Hässelby",
+    "link": "https://qasa.com/se/sv/home/1318863"
+  },
+  {
+    "rent": 11543,
+    "size_sqm": 78,
+    "rooms": 3.0,
+    "address": "Trondheimsgatan, Kista",
+    "link": "https://qasa.com/se/sv/home/1318853"
+  },
+  {
+    "rent": 8000,
+    "size_sqm": 18,
+    "rooms": 1.0,
+    "address": "Karlbergsvägen, Stockholm",
+    "link": "https://qasa.com/se/sv/home/1318834"
+  },
+  {
+    "rent": 11800,
+    "size_sqm": 31,
+    "rooms": 1.0,
+    "address": "Ulvsundavägen, Bromma",
+    "link": "https://qasa.com/se/sv/home/1318831"
+  },
+  {
+    "rent": 17150,
+    "size_sqm": 45,
+    "rooms": 2.0,
+    "address": "Redargatan, Stockholm",
+    "link": "https://qasa.com/se/sv/home/1318818"
+  },
+  {
+    "rent": 13000,
+    "size_sqm": 80,
+    "rooms": 3.0,
+    "address": "Persikogatan , Stockholm",
+    "link": "https://qasa.com/se/sv/home/1318722"
+  },
+  {
+    "rent": 8930,
+    "size_sqm": 29,
+    "rooms": 1.0,
+    "address": "Färötorget, Kista",
+    "link": "https://qasa.com/se/sv/home/1318877"
+  },
+  {
+    "rent": 13063,
+    "size_sqm": 45,
+    "rooms": 2.0,
+    "address": "Diavoxvägen, Hägersten",
+    "link": "https://qasa.com/se/sv/home/1318865"
+  },
+  {
+    "rent": 13500,
+    "size_sqm": 67,
+    "rooms": 2.5,
+    "address": "Åsögatan, Stockholm",
+    "link": "https://qasa.com/se/sv/home/1318787"
+  },
+  {
+    "rent": 7500,
+    "size_sqm": 63,
+    "rooms": 2.0,
+    "address": "Munkbrogatan, Stockholm",
+    "link": "https://qasa.com/se/sv/home/1318719"
+  },
+  {
+    "rent": 10000,
+    "size_sqm": 33,
+    "rooms": 2.0,
+    "address": "Nockebyvägen, Bromma",
+    "link": "https://qasa.com/se/sv/home/1318732"
+  },
+  {
+    "rent": 5460,
+    "size_sqm": 26,
+    "rooms": 1.0,
+    "address": "Holmingegränd, Spånga",
+    "link": "https://qasa.com/se/sv/home/1318692"
+  },
+  {
+    "rent": 21708,
+    "size_sqm": 70,
+    "rooms": 3.0,
+    "address": "Drottningholmsvägen, Stockholm",
+    "link": "https://qasa.com/se/sv/home/1318664"
+  },
+  {
+    "rent": 9800,
+    "size_sqm": 32,
+    "rooms": 2.0,
+    "address": "Skedviksvägen, Årsta",
+    "link": "https://qasa.com/se/sv/home/1318554"
+  },
+  {
+    "rent": 15196,
+    "size_sqm": 35,
+    "rooms": 1.5,
+    "address": "Anna Steckséns gata, Stockholm",
+    "link": "https://qasa.com/se/sv/home/1318657"
+  },
+  {
+    "rent": 18877,
+    "size_sqm": 38,
+    "rooms": 2.0,
+    "address": "Vitalisvägen, Stockholm",
+    "link": "https://qasa.com/se/sv/home/1318641"
+  },
+  {
+    "rent": 18411,
+    "size_sqm": 88,
+    "rooms": 4.0,
+    "address": "Skogängsvägen, Spånga",
+    "link": "https://qasa.com/se/sv/home/1318724"
+  },
+  {
+    "rent": 39500,
+    "size_sqm": 91,
+    "rooms": 3.0,
+    "address": "Birger Jarlsgatan, Stockholm",
+    "link": "https://qasa.com/se/sv/home/1318610"
+  },
+  {
+    "rent": 12500,
+    "size_sqm": 45,
+    "rooms": 2.0,
+    "address": "Blomsterkungsvägen, Hässelby",
+    "link": "https://qasa.com/se/sv/home/1318577"
+  },
+  {
+    "rent": 13800,
+    "size_sqm": 33,
+    "rooms": 1.5,
+    "address": "Russinvägen, Farsta",
+    "link": "https://qasa.com/se/sv/home/1318407"
+  },
+  {
+    "rent": 14100,
+    "size_sqm": 36,
+    "rooms": 1.0,
+    "address": "Drakenbergsgatan, Stockholm",
+    "link": "https://qasa.com/se/sv/home/1318497"
+  },
+  {
+    "rent": 8100,
+    "size_sqm": 42,
+    "rooms": 1.0,
+    "address": "Vårholmsbackarna, Stockholm",
+    "link": "https://qasa.com/se/sv/home/1318576"
+  },
+  {
+    "rent": 6500,
+    "size_sqm": 18,
+    "rooms": 1.0,
+    "address": "Sorögatan, Stockholm",
+    "link": "https://qasa.com/se/sv/home/1318496"
+  },
+  {
+    "rent": 14999,
+    "size_sqm": 83,
+    "rooms": 3.0,
+    "address": "Båtholmsbacken, Skärholmen",
+    "link": "https://qasa.com/se/sv/home/1318484"
+  },
+  {
+    "rent": 31000,
+    "size_sqm": 84,
+    "rooms": 3.0,
+    "address": "Buteljgatan, Stockholm",
+    "link": "https://qasa.com/se/sv/home/1318482"
+  }
+]
